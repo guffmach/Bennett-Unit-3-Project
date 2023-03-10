@@ -1,0 +1,84 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+background-color: black;
+}
+
+.bat{
+color:gray;
+    display:none;
+    justify-content:center;
+    font-size:70px;
+}
+
+.supe{
+    color:blue;
+    display:none;
+    justify-content:center;
+    font-size:70px;
+}
+img {
+    width: 300px;
+    border: 10px solid white ;
+    display:flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 60px;
+    font-weight: 800;
+    color: red;
+}
+
+.buttons {
+    display: none;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.option-one-end{
+   display:none;
+    color:white;
+    justify-content:center;
+}
+ .option-one-screen{
+     display:flex;
+     justify-content:center;
+}
+.option-two-screen{
+    display:flex;
+    justify-content:center;
+}
+.option-two-end{
+   display:none;
+    color:white;
+    justify-content:center;
+}
+ 
+.open-one-end{
+   display:none;
+    color:white;
+    justify-content:center;
+    
+}
+ 
+.open-two-end{
+   display:none;
+    color:white;
+    justify-content:center;
+}
+.story-opening{
+    display:flex;
+    justify-content:center;
+}
+.lol{
+    color: darkred;
+    display:flex;
+    justify-content:center;
+    font-size:90px;
+}
